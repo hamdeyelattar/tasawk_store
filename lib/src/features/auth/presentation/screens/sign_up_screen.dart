@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:tasawk/src/core/extensions/context_extension.dart';
 import 'package:tasawk/src/features/auth/presentation/refactors/auth_custom_painter.dart';
-import 'package:tasawk/src/features/auth/presentation/refactors/login_body.dart';
 import 'package:tasawk/src/features/auth/presentation/refactors/sign_up_body.dart';
 
 class SignUpScreen extends StatelessWidget {
